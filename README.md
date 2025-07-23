@@ -16,6 +16,7 @@ An Electronics & Telecommunication Engineering Student interested in Software En
 - **Frameworks/Libraries:** React.js, Node.js, Express.js
 - **UI/UX:** Figma
 - **Databases:** MongoDB, MySQL, SQLite
+- **Machine Learning**
 
 ---
 
